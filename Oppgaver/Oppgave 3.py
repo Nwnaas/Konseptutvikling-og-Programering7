@@ -1,5 +1,5 @@
 alder = 4
-print("Alder: " + str(alder))
+print("Alder: ", alder)
 # Nå endrer vi verdien av variabelen alder:
 alder = input("Hvor gammel er du: ")
-print("Du er " + str(alder) + " år gammel.")
+print("Du er ",  alder, " år gammel.")
